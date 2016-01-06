@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.4.5 (Dec 16, 2015)
+## 0.4.6 (Jan 4, 2016)
+
+* angular 1.4 support
+
+0.4.5 (Dec 16, 2015)
 
 * Add OpenID support
 
@@ -36,7 +40,7 @@
 
 ## 0.3.8 (February 06, 2015)
 
-* Upgrade to AngularJS v1.3.12.
+* Upgrade to AngularJS v1.3. 12.
 
 ## 0.3.6 (Dicember 03, 2014)
 
